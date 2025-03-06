@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/2025-1-LIANHZHEN/",
+  base: "/2025-1-LIANGZHEN/",
   title: "fablab",
   description: "unnc ",
   themeConfig: {
