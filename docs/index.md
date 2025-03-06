@@ -3,7 +3,7 @@
 layout: home
 
 hero:
-  name: "fablab"
+  name: "Fab"
   text: "unnc "
   tagline: My great project tagline
   actions:
